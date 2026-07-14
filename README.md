@@ -1,4 +1,4 @@
- Cybersecurity Home Lab
+Cybersecurity Home Lab
 Overview
 
 This repository documents the home lab I built to learn Linux administration, Docker, monitoring, authentication, and security operations through hands-on experience.
@@ -31,7 +31,11 @@ Learn infrastructure documentation
 Simulate enterprise environments
 Current Architecture
 
-(diagram here)
+
+
+<img width="1414" height="2000" alt="ACCESS MANAGMENT" src="https://github.com/user-attachments/assets/2cbcaf80-4d0a-48c5-b050-831bdaf2288e" />
+
+
 
 Current Services
 Service	Purpose
